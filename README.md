@@ -14,7 +14,10 @@ This project is a DBMS-based application to manage airport operations like passe
 3. Run Main.java
 
 ## 📷 Screenshots
-(Add images here)
+<img width="1313" height="696" alt="Screenshot 2026-04-22 233734" src="https://github.com/user-attachments/assets/7934a555-5e5b-42dd-a6f9-cec41f53a0d4" />
+<img width="1313" height="696" alt="Screenshot 2026-04-22 233734" src="https://github.com/user-attachments/assets/e487136b-d34c-48eb-a29f-4fe4de4ba816" />
+
+
 
 ## 👨‍💻 Author
 Vijay
