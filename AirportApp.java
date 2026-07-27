@@ -16,7 +16,7 @@ public class AirportApp {
 
     static final String DB_URL = "jdbc:mysql://localhost:3306/Airport_management_system";
     static final String USER   = "root";
-    static final String PASS   = "Vijay@1234";
+    static final String PASS   = "Vijay@123364";
 
     static final Color ACCENT = new Color(0, 153, 255);
     static final Font TITLE_FONT = new Font("Segoe UI", Font.BOLD, 22);
